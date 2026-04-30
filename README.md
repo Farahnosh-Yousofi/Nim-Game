@@ -66,7 +66,8 @@ Includes:
 computer_play() → Implements smart strategy
 player_play() → Handles user input and validation
 print() → Displays current pile
-Example Gameplay
+
+## Example Gameplay
 Welcome to the game of Nim
 Player: Marwa
 Computer goes first
@@ -77,6 +78,5 @@ Computer takes 14 marbles
 Your turn:
 You take: 5
 
-...
 
 
