@@ -49,6 +49,15 @@ Nim-Game/
 5. The game continues until only one marble remains.
 6. The player forced to take the last marble **loses**.
 
+## Learning Outcomes
+Object-Oriented Programming (OOP) in C++
+Designing game logic and rules
+Implementing algorithms (optimal strategy)
+Input validation and error handling
+Working with randomness in programs
+Author
+Farahnosh Yousofi
+
 ## Key Class
 
 ```cpp
@@ -70,11 +79,4 @@ You take: 5
 
 ...
 
-Learning Outcomes
-Object-Oriented Programming (OOP) in C++
-Designing game logic and rules
-Implementing algorithms (optimal strategy)
-Input validation and error handling
-Working with randomness in programs
-Author
-Farahnosh Yousofi
+
